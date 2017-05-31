@@ -2,3 +2,5 @@ markdown: kramdown
 name: Steric
 title: Welcome to the homepage!
 decrisption: Testing github pages
+gems:
+  - jekyll-sitemap
