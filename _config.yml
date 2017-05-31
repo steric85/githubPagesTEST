@@ -1,3 +1,4 @@
-theme: jekyll-theme-dinky
+markdown: kramdown
+name: Steric
 title: Welcome to the homepage!
 decrisption: Testing github pages
