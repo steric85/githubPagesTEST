@@ -1,5 +1,5 @@
 markdown: kramdown
-name: Steric
+baseurl: /testpage
 title: Welcome to the homepage!
 decrisption: Testing github pages
 gems:
